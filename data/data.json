@@ -1,0 +1,58 @@
+{"items":[
+    {
+	"ownerName": ["Owner: Alex Behannon"],
+	"ownerLocation": ["Location: Omaha, NE"],
+	"favorite": ["Favorite: Yes"],
+	"itemName": ["Item: Shotgun"],
+	"itemCategory": ["Item Category: Ranged"],
+	"img": ["Ranged"],
+	"perish": ["Perishable: No"],
+	"itemAmount": ["Item Amount: 1"],
+	"extraInfo": ["Other Info: Your trusty shotgun!"]
+    },
+    {
+	"ownerName": ["Owner: Alex Behannon"],
+	"ownerLocation": ["Location: Omaha, NE"],
+	"favorite": ["Favorite: Yes"],
+	"itemName": ["Item: Crowbar"],
+	"itemCategory": ["Item Category: Melee"],
+	"img": ["Melee"],
+	"perish": ["Perishable: No"],
+	"itemAmount": ["Item Amount: 1"],
+	"extraInfo": ["Other Info: Just like Gordon Freeman! Minus the headcrabs, though."]
+    },
+    {
+	"ownerName": ["Owner: Alex Behannon"],
+	"ownerLocation": ["Location: Omaha, NE"],
+	"favorite": ["Favorite: No"],
+	"itemName": ["Item: Hatchet"],
+	"itemCategory": ["Item Category: Survival"],
+	"img": ["Survival"],
+	"perish": ["Perishable: No"],
+	"itemAmount": ["Item Amount: 1"],
+	"extraInfo": ["Other Info: Chop them trees."]
+    },
+    {
+	"ownerName": ["Owner: Alex Behannon"],
+	"ownerLocation": ["Location: Omaha, NE"],
+	"favorite": ["Favorite: No"],
+	"itemName": ["Item: Backpack"],
+	"itemCategory": ["Item Category: Other"],
+	"img": ["Other"],
+	"perish": ["Perishable: No"],
+	"itemAmount": ["Item Amount: 1"],
+	"extraInfo": ["Other Info: It holds stuff."]
+    },
+    {
+	"ownerName": ["Owner: Alex Behannon"],
+	"ownerLocation": ["Location: Omaha, NE"],
+	"favorite": ["Favorite: No"],
+	"itemName": ["Item: Bananas"],
+	"itemCategory": ["Item Category: Fruit"],
+	"img": ["Fruit"],
+	"perish": ["Perishable: Yes"],
+	"itemAmount": ["Item Amount: 5"],
+	"extraInfo": ["Other Info: You hate them, but its food."]
+    }
+]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<itemlist>
+    <item>
+	<ownerName>Alex Behannon</ownerName>
+	<ownerLocation>Omaha, NE</ownerLocation>
+	<favorite>Yes</favorite>
+	<itemName>Shotgun</itemName>
+	<itemCategory>Ranged</itemCategory>
+	<perish>No</perish>
+	<amount>1</amount>
+	<extraInfo>Your trusty shotgun!</extraInfo>
+    </item>
+    <item>
+	<ownerName>Alex Behannon</ownerName>>
+	<ownerLocation>Omaha, NE</ownerLocation>
+	<favorite>Yes</favorite>
+	<itemName>Crowbar</itemName>
+	<itemCategory>Melee</itemCategory>
+	<perish>No</perish>
+	<amount>1</amount>
+	<extraInfo>Just like Gordon Freeman! Minus the headcrabs, though.</extraInfo>
+    </item>
+    <item>
+	<ownerName>Alex Behannon</ownerName>>
+	<ownerLocation>Omaha, NE</ownerLocation>
+	<favorite>No</favorite>
+	<itemName>Hatchet</itemName>
+	<itemCategory>Survival</itemCategory>
+	<perish>No</perish>
+	<amount>1</amount>
+	<extraInfo>Chop them trees.</extraInfo>
+    </item>
+    <item>
+	<ownerName>Alex Behannon</ownerName>>
+	<ownerLocation>Omaha, NE</ownerLocation>
+	<favorite>No</favorite>
+	<itemName>Backpack</itemName>
+	<itemCategory>Other</itemCategory>
+	<perish>No</perish>
+	<amount>1</amount>
+	<extraInfo>It holds stuff.</extraInfo>
+    </item>
+    <item>
+	<ownerName>Alex Behannon</ownerName>>
+	<ownerLocation>Omaha, NE</ownerLocation>
+	<favorite>No</favorite>
+	<itemName>Bananas</itemName>
+	<itemCategory>Fruit</itemCategory>
+	<perish>Yes</perish>
+	<amount>5</amount>
+	<extraInfo>You hate them, but its food.</extraInfo>
+    </item>
+</itemlist>
